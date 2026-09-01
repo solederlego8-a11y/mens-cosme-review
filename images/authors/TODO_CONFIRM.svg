@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <circle cx="72" cy="72" r="72" fill="#a89d89"/>
+  <circle cx="72" cy="58" r="26" fill="#f2ede3"/>
+  <path d="M28 128c4-30 30-44 44-44s40 14 44 44" fill="#f2ede3"/>
+  <text x="72" y="138" font-family="Arial, sans-serif" font-size="10" fill="#332c20" text-anchor="middle">placeholder</text>
+</svg>

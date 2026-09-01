@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#1F1F1F"/>
+  <text x="60" y="60" font-family="Arial, sans-serif" font-size="20" fill="#F8F5F0">洗顔料のテクスチャ</text>
+  <circle cx="640" cy="380" r="140" fill="#EFE9E0"/>
+  <text x="1280" y="700" font-family="Arial, sans-serif" font-size="14" fill="#6b6459" text-anchor="end">Placeholder photo for demo purposes</text>
+</svg>

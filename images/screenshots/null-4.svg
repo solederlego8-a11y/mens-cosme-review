@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0B1220"/>
+  <rect x="440" y="120" width="400" height="480" rx="16" fill="#131C2E"/>
+  <rect x="480" y="480" width="320" height="80" rx="6" fill="#0B1220"/>
+  <rect x="500" y="500" width="280" height="10" rx="3" fill="#38BDF8" opacity="0.6"/>
+  <rect x="500" y="520" width="240" height="10" rx="3" fill="#38BDF8" opacity="0.4"/>
+  <rect x="500" y="540" width="200" height="10" rx="3" fill="#38BDF8" opacity="0.3"/>
+  <text x="640" y="640" font-family="Arial, sans-serif" font-size="20" fill="#38BDF8" text-anchor="middle">成分表示ラベル部分</text>
+  <text x="1280" y="700" font-family="Arial, sans-serif" font-size="14" fill="#334155" text-anchor="end">Placeholder photo for demo purposes</text>
+</svg>
