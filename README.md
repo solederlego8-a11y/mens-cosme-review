@@ -13,7 +13,7 @@
 ## 運営者の他サイト
 
 - [SaaS Review Lab](https://solederlego8-a11y.github.io/saas-review-lab/) — 法人向けSaaS導入実務レビュー
-- [固定費ラボ](https://solederlego8-a11y.github.io/koteihi-labo/) — 固定費見直し・節約情報
+- [生活費ラボ](https://solederlego8-a11y.github.io/koteihi-labo/) — 固定費見直し・節約情報
 
 ---
 
