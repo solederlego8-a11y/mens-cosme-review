@@ -22,7 +22,7 @@
 <!-- article-index:start -->
 ## Men's Cosme 公開中のページ一覧
 
-20〜40代男性のスキンケア・身だしなみの選び方。定期便の解約条件や総額も公式情報で整理しています。
+x
 
 サイト: https://solederlego8-a11y.github.io/mens-cosme-review/
 
@@ -37,6 +37,8 @@
 - [お問い合わせ](https://solederlego8-a11y.github.io/mens-cosme-review/contact)
 
 ### blog
+- [男の化粧水はつけすぎ？適量の目安とべたつくときの見直し順](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-keshosui-tsukesugi-tekiryo-betatsuku-handan)
+- [男の保湿しすぎでニキビは悪化する？やめる前に見直す順番と学会Q&A](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-hoshitsu-shisugi-nikibi-akka-yameru-mae)
 - [男のニキビは食べ物のせい？チョコや揚げ物をやめる必要はあるか](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nikibi-tabemono-chocolate-yameru-hitsuyou)
 - [男のニキビは寝不足で悪化する？睡眠時間の目安と見直す順番](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nikibi-suimin-busoku-nanjikan-seikatsu)
 - [男のニキビはコンシーラーで隠していい？重ね塗りしない・落とす手順](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nikibi-concealer-makeup-shiteii-otoshikata)
