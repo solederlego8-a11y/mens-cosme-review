@@ -22,7 +22,7 @@
 <!-- article-index:start -->
 ## Men's Cosme 公開中のページ一覧
 
-x
+20〜40代男性のスキンケア・身だしなみの選び方。定期便の解約条件や総額も公式情報で整理しています。
 
 サイト: https://solederlego8-a11y.github.io/mens-cosme-review/
 
