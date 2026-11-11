@@ -37,9 +37,6 @@
 - [お問い合わせ](https://solederlego8-a11y.github.io/mens-cosme-review/contact)
 
 ### blog
-- [日焼け止めのSPFとPAはどう読む？【男性向け】数値の意味とシーン別の選び方](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-hiyakedome-spf-pa-mikata-erabikata)
-- [髭剃りと洗顔はどっちが先？メーカー公式の案内が分かれる理由と決め方](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-higesori-sengan-junban-docchi-saki)
-- [男のシャンプーは「頭皮を洗う」が基本｜予洗い・指の腹・すすぎの手順を公式ガイドで整理](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-shampoo-araikata-tohi-yoiyoi-susugi)
 - [男のニキビは食べ物のせい？チョコや揚げ物をやめる必要はあるか](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nikibi-tabemono-chocolate-yameru-hitsuyou)
 - [男のニキビは寝不足で悪化する？睡眠時間の目安と見直す順番](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nikibi-suimin-busoku-nanjikan-seikatsu)
 - [男のニキビはコンシーラーで隠していい？重ね塗りしない・落とす手順](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nikibi-concealer-makeup-shiteii-otoshikata)
