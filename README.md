@@ -20,9 +20,9 @@
 このリポジトリは [Next.js](https://nextjs.org/) の静的エクスポート（`output: "export"`）で生成され、GitHub Pagesでホストされています。
 
 <!-- article-index:start -->
-## Men's Cosme 公開中のページ一覧
+## Men's Cosme Review 公開中のページ一覧
 
-20〜40代男性のスキンケア・身だしなみの選び方。定期便の解約条件や総額も公式情報で整理しています。
+20〜40代男性向けメンズスキンケア・コスメの比較検討情報
 
 サイト: https://solederlego8-a11y.github.io/mens-cosme-review/
 
@@ -37,6 +37,12 @@
 - [お問い合わせ](https://solederlego8-a11y.github.io/mens-cosme-review/contact)
 
 ### blog
+- [メンズにクレンジングはいらない？洗顔料だけで落ちる条件の判定表](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-cleansing-iranai-handan)
+- [メンズのシートマスクは毎日やめるべき？肌荒れ時の判断表と頻度](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-sheet-mask-mainichi-yameru-handan)
+- [男はボディソープで顔を洗うのをやめるべき？判定表と最小手順](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-body-soap-kao-arau-yameru)
+- [メンズの美容液はいらない？化粧水・乳液で足りる条件と足す条件の判定表](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-biyoeki-iranai-handan)
+- [男の化粧水はつけすぎ？適量の目安とべたつくときの見直し順](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-keshosui-tsukesugi-tekiryo-betatsuku-handan)
+- [男の保湿しすぎでニキビは悪化する？やめる前に見直す順番と学会Q&A](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-hoshitsu-shisugi-nikibi-akka-yameru-mae)
 - [男のニキビは食べ物のせい？チョコや揚げ物をやめる必要はあるか](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nikibi-tabemono-chocolate-yameru-hitsuyou)
 - [男のニキビは寝不足で悪化する？睡眠時間の目安と見直す順番](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nikibi-suimin-busoku-nanjikan-seikatsu)
 - [男のニキビはコンシーラーで隠していい？重ね塗りしない・落とす手順](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nikibi-concealer-makeup-shiteii-otoshikata)
@@ -73,11 +79,11 @@
 - [髭剃り後にヒリヒリする40代男性のオールインワン選び｜アルコールフリーの見分け方](https://solederlego8-a11y.github.io/mens-cosme-review/blog/higesori-ato-hirihiri-all-in-one-alcohol-free)
 - [40代男性のスキンケアは最低限何から？「洗顔→保湿→追加の1本」の順番と、通販・ドラッグストアで買えるおすすめ10選](https://solederlego8-a11y.github.io/mens-cosme-review/blog/40dai-mens-skincare-saiteigen-osusume-10sen)
 - [メンズのオールインワンにデメリットはある？乾燥肌が「化粧水＋乳液」に戻すべき条件と、1本のまま続けられる条件](https://solederlego8-a11y.github.io/mens-cosme-review/blog/all-in-one-demerit-kansohada)
-- [男性が化粧水を使わないとどうなる？公開情報で見る肌の変化と「使わなくても困らない人」の条件](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-keshosui-tsukawanai-dounaru)
+- [男性に化粧水はいらない？使わなくても困らない条件と「使ったほうがいい人」の判定表](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-keshosui-tsukawanai-dounaru)
 - [男性の毛穴の黒ずみに美容液は必要？使う順番（洗顔→化粧水→美容液→乳液）と、黒ずみの種類で変わる対処の考え方](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-keana-kurozumi-biyoeki-junban)
 - [髭剃り後に化粧水がしみるのはなぜ？しみる日の見分け方と選び方](https://solederlego8-a11y.github.io/mens-cosme-review/blog/higesori-ato-keshosui-shimiru)
-- [男の洗顔は水だけで足りる？朝の皮脂・寝具で判定する表](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-asa-senkan-mizu-dake)
-- [【判定チェック】メンズに乳液はいらない？肌タイプ別に解説](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nyueki-iranai)
+- [朝の洗顔は水だけでいい？【男性向け】条件別チェックリストで判定](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-asa-senkan-mizu-dake)
+- [メンズに乳液はいらない？肌タイプ別に判定する条件と使い分け表](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nyueki-iranai)
 - [男性のスキンケア、始めるのが恥ずかしい・面倒だと感じる人へ](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-skincare-getting-started)
 
 ### comparisons
