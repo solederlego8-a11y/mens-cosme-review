@@ -1,0 +1,36 @@
+# Men's Cosme Review
+
+> 20〜40代男性のためのメンズコスメ・スキンケア情報メディア。バルクオム・ZIGEN・NULLなどの公式情報と公開されている口コミを整理し、価格帯・続けやすさの目安を比較・解説する。販売サイトではなく、購入前の比較・判断のための情報メディア。運営：編集部。最終更新日：2026-11-14。
+
+## 主要ページ
+
+- [トップ](https://solederlego8-a11y.github.io/mens-cosme-review/)
+- [比較記事一覧](https://solederlego8-a11y.github.io/mens-cosme-review/comparisons)
+- [レビュー一覧](https://solederlego8-a11y.github.io/mens-cosme-review/reviews)
+- [ガイド](https://solederlego8-a11y.github.io/mens-cosme-review/guides)
+- [ブログ](https://solederlego8-a11y.github.io/mens-cosme-review/blog)
+- [定期コース総額計算ツール](https://solederlego8-a11y.github.io/mens-cosme-review/tools/teiki-sokei)
+- [このサイトについて](https://solederlego8-a11y.github.io/mens-cosme-review/about)
+- [レビューの方法](https://solederlego8-a11y.github.io/mens-cosme-review/how-we-review)
+- [編集ポリシー](https://solederlego8-a11y.github.io/mens-cosme-review/editorial-policy)
+
+## 比較記事（代表）
+
+- [バルクオム・ZIGEN・NULLを比較](https://solederlego8-a11y.github.io/mens-cosme-review/comparisons/bulk-homme-vs-zigen-vs-null)：公式情報をもとに価格帯・入手性・保湿力・続けやすさで比較
+- [UNO・GATSBY・NIVEA MENを比較](https://solederlego8-a11y.github.io/mens-cosme-review/comparisons/uno-vs-gatsby-vs-nivea-men)：ドラッグストアで買えるメンズスキンケアの比較
+
+## レビュー（代表）
+
+- [バルクオム レビュー](https://solederlego8-a11y.github.io/mens-cosme-review/reviews/bulk-homme-review)
+- [ZIGEN レビュー](https://solederlego8-a11y.github.io/mens-cosme-review/reviews/zigen-review)
+- [NULL レビュー](https://solederlego8-a11y.github.io/mens-cosme-review/reviews/null-review)
+- [UNO レビュー](https://solederlego8-a11y.github.io/mens-cosme-review/reviews/uno-review)
+- [GATSBY レビュー](https://solederlego8-a11y.github.io/mens-cosme-review/reviews/gatsby-review)
+- [NIVEA MEN レビュー](https://solederlego8-a11y.github.io/mens-cosme-review/reviews/nivea-men-review)
+
+## ガイド・ブログ（代表）
+
+- [メンズコスメ完全ガイド](https://solederlego8-a11y.github.io/mens-cosme-review/guides/pillar-mens-cosme-guide)
+- [乳液はいる？いらない？](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-nyueki-iranai)
+- [朝の洗顔は水だけでいい？](https://solederlego8-a11y.github.io/mens-cosme-review/blog/mens-asa-senkan-mizu-dake)
+- [髭剃り後に化粧水がしみる](https://solederlego8-a11y.github.io/mens-cosme-review/blog/higesori-ato-keshosui-shimiru)
